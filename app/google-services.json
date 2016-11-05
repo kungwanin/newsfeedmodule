@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172890771706",
+    "firebase_url": "https://trubanewsfeed-7c230.firebaseio.com",
+    "project_id": "trubanewsfeed-7c230",
+    "storage_bucket": "trubanewsfeed-7c230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172890771706:android:24dc4df5afa8ad4b",
+        "android_client_info": {
+          "package_name": "in.app.neeraj.trubanewsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172890771706-m59oqg0jgbvige87l85dh5rb4mr0l9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyDdaP_qA38C1MSy1g5q7Y1ka6eqmj4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
